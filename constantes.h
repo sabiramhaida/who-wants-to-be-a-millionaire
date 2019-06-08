@@ -1,0 +1,13 @@
+#define MAX_NOM 200
+#define MAX_TEXTE_QUESTION 400
+#define MAX_TEXT_REPONSE 400
+#define NOMBRE_NIVEAU 15
+#define VALIDE 0
+#define INVALIDE 1
+#define MAX_QUESTIONS 500
+#define MAX_MOT_DE_PASSE 50
+#define NOMBRE_QUESTIONS_PAR_NIVEAU 3
+#define FICHIER_QUESTION "fichierQuestion.bin"
+#define FICHIER_JOUEUR "fichierJoueur.bin"
+#define FICHIER_ADMIN "fichierAdmin.bin"
+#define FICHIER_STATISTIQUE "fichierStatistique.bin"

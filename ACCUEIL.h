@@ -1,0 +1,3 @@
+
+void EcranAccueil();
+void Quitter();
