@@ -1,5 +1,5 @@
 # GagnerDesMillions
-Qui veut gangerdes millions : Millionnaire \
+Qui veut ganger des millions : Millionnaire \
 c'est un jeu basé sur le celebre jeu "qui veut gagner des millions" implementé en langage C en faisant des interfaces
 graphiques avec GTK2.0\
 aprés l'installation de GTK2.0 vous pouvez compiler et executer cette jeu en tappant 
