@@ -1,6 +1,7 @@
-# GagnerDesMillions
-Qui veut ganger des millions : Millionnaire \
+who-wants-to-be-a-millionaire :
+
 ## Description :
+who wants to be a millionaire ou qui veux gagner des millions :
 c'est un jeu basé sur le celebre jeu "qui veut gagner des millions" implementé en langage C en faisant des interfaces
 graphiques avec GTK2.0\
 
